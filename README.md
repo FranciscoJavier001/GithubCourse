@@ -14,3 +14,6 @@ vamos a unificar, del branch del cual trabajamos, al main
 
 para salir
    :q
+
+Meterle los cambios
+   git push origin main -u
