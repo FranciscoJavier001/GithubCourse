@@ -9,3 +9,8 @@ para ver los branch
 cambiar repositorio
    git checkout xxx (nombre del que me quiero cambiar)
 
+vamos a unificar, del branch del cual trabajamos, al main
+   git merge xxx(de cual rama los voy a unificar)
+
+para salir
+   :q
