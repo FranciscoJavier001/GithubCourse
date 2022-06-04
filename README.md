@@ -24,5 +24,5 @@ vamos a unificar pero voy a unificar desde el branch main para fusionarlo
 para salir
    :q
 
-Meterle los cambios
+Meterle los cambios (depende de la rama en la que este)
    git push origin main -u
