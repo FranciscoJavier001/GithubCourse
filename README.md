@@ -18,6 +18,9 @@ agregar los archivos
 agregar un mensaje para hacer el commit
    git commit -m "xxx"
 
+para quitarme el asunto que se vean las ramas
+   git push
+
 vamos a unificar pero voy a unificar desde el branch main para fusionarlo
    git merge xxx(de cual rama los voy a unificar)
 
